@@ -25,8 +25,8 @@
 
 Данные поступают из трех csv файлов вида:
 
-| module | name | function |
-| ------ | ---- | -------- | 
-| module1 | test1 | foo1 |
-| module1 | test2 | foo2 |
-| module2 | test3 | foo3 |
+|module|name|function|
+|------|----|--------|
+|module1|test1|foo1|
+|module1|test2|foo2|
+|module2|test3|foo3|
